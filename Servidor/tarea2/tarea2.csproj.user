@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios de consultas\ConsultarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de consultas\ConsultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de consultas\ConsultarExtras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de consultas\ConsultarPlato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de consultas\ConsultarPlatosRestaurante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de consultas\ConsultarRestaurante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de inicio y menu principal\ConectarServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de inicio y menu principal\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de registro\RegistrarExtras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de registro\RegistrarPlatosRestaurante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de registro\RegistrarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de registro\RegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de registro\RegistrarPlato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios de registro\RegistrarRestaurante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
